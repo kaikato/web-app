@@ -1,0 +1,55 @@
+.cs142-login-spacer {
+  height: 20px;
+  border-bottom: 1in;
+}
+
+.cs142-login-form {
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+.cs142-login-form input {
+  margin: 10px 10px;
+  padding: 10px;
+  border-radius: 4px;
+  border: none;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
+
+.cs142-login-submit {
+  background-color: #008CBA;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.cs142-login-submit:hover {
+  background-color: #005F6B;
+}
+
+.cs142-login-error {
+  color: #FF0000;
+  margin: 10px 0;
+}
+
+.cs142-login-form-name {
+  color: darkblue;
+  font-size: 24px;
+  font-family: 'Helvetica Neue', sans-serif;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.cs142-login-container {
+  display: flex;
+  justify-content:center;
+  align-items:flex-start;
+  height: 100vh;
+  gap: 15px;
+}
+

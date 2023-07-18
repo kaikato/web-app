@@ -1,0 +1,28 @@
+.cs142-comment-count-bubble {
+    background-color: red;
+    border-radius: 50%;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    height: 20px;
+    line-height: 20px;
+    right: -8px;
+    text-align: center;
+    top: -8px;
+    width: 20px;
+  }
+
+  .cs142-photo-count-bubble {
+    background-color: green;
+    border-radius: 50%;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    height: 20px;
+    line-height: 20px;
+    right: -8px;
+    text-align: center;
+    top: -8px;
+    width: 20px;
+  }
+  

@@ -1,0 +1,21 @@
+.cs142-topbar-appBar {
+  height: 60;
+  justify-content: 'center';
+}
+
+.cs142-topbar-toolBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.cs142-topbar-name {
+  margin-right: auto;
+}
+
+.cs142-topbar-app-context {
+  margin-left: auto;
+  padding-right: 60px;
+}
+
